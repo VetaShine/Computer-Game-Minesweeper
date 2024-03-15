@@ -14,5 +14,5 @@
 
 ## Пример работы программы:
 
-![Первое изображение](https://github.com/VetaShine/Linear-Transformations/blob/main/Examples%20of%20work/mine2.png) 
-![Второе изображение](https://github.com/VetaShine/Linear-Transformations/blob/main/Examples%20of%20work/mine1.png)
+![Первое изображение](https://github.com/VetaShine/OOPch/blob/main/mine2.png) 
+![Второе изображение](https://github.com/VetaShine/OOPch/blob/main/mine1.png)
